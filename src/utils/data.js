@@ -29,90 +29,57 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Paso 1",
+    role: "Hacemos un primer análisis gratuito",
+    detail: "Realizamos un análisis orientativo de la viabilidad de la operación",
+ 
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Paso 2",
+    role: "Presentamos tu solicitud y negociamos con bancos",
+    detail: "Gestionamos toda la documentación y la presentamos a los bancos",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Paso 3",
+    role: "Te presentamos varias opciones",
+    detail: "Un experto hipotecario te explicará todo para que elijas la mejor hipoteca para ti",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Fabian",
+    post: "Buenas condiciones",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "He conseguido una financiación mayor a la que podia haber accedido por mi cuenta. El gestor me ha acompañado paso a paso desde la tasación hasta el día de la firma",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Marta",
+    post: "Estoy encantada con ellos",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Me ayudaron a encontrar mi hipoteca lo más rápido posible, dándome todas las soluciones y herramientas posibles, sin duda los recomiendo muy profesionales!",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Ien",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Excelente servicio y profesionalidad. Nos han conseguido mucho mejores condiciones y mayor financiación que nuestro banco de toda la vida. Muy recomendable",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Ien",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Excelente servicio y profesionalidad. Nos han conseguido mucho mejores condiciones y mayor financiación que nuestro banco de toda la vida. Muy recomendable",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Ien",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Excelente servicio y profesionalidad. Nos han conseguido mucho mejores condiciones y mayor financiación que nuestro banco de toda la vida. Muy recomendable",
     img: "./people2.png",
   },
 ];
